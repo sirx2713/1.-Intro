@@ -23,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		917C80402C450BEE0067FD0D /* burger.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = burger.riv; sourceTree = "<group>"; };
 		96D02DF2282D774C00E6BEE7 /* Animated.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animated.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D02DF5282D774C00E6BEE7 /* AnimatedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedApp.swift; sourceTree = "<group>"; };
 		96D02DF7282D774C00E6BEE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 		96D02E03282D79D600E6BEE7 /* RiveAssets */ = {
 			isa = PBXGroup;
 			children = (
+				917C80402C450BEE0067FD0D /* burger.riv */,
 				96D02E04282D79D600E6BEE7 /* house.riv */,
 				96D02E05282D79D600E6BEE7 /* confetti.riv */,
 				96D02E06282D79D600E6BEE7 /* check.riv */,
